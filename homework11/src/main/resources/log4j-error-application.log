@@ -1,0 +1,23 @@
+
+2018-04-14 22:09:58 ERROR BookDAOImpl:46 - Incorrect URL
+2018-04-16 17:07:00 ERROR BookDAOImpl:115 - Incorrect Book arguments
+2018-04-16 17:08:14 ERROR BookDAOImpl:222 - Can't add Author with his books
+2018-04-16 17:09:54 ERROR BookDAOImpl:223 - Can't add Author with his books
+2018-04-16 17:11:22 ERROR BookDAOImpl:222 - Can't add Author with his books
+2018-04-16 17:12:14 ERROR BookDAOImpl:223 - Can't add Author with his books
+2018-04-16 17:16:21 ERROR BookDAOImpl:225 - Can't add Author with his books
+2018-04-16 17:16:50 ERROR BookDAOImpl:225 - Can't add Author with his books
+2018-04-16 17:18:55 ERROR BookDAOImpl:224 - Can't add Author with his books
+2018-04-16 17:33:27 ERROR BookDAOImpl:222 - Can't add Author with his books
+2018-04-16 17:40:33 ERROR BookDAOImpl:229 - Can't add Author with his books
+2018-04-16 17:46:33 ERROR BookDAOImpl:233 - Can't add books
+2018-04-16 17:47:04 ERROR BookDAOImpl:233 - Can't add books
+2018-04-16 17:49:05 ERROR BookDAOImpl:233 - Can't add books
+2018-04-16 17:51:45 ERROR BookDAOImpl:233 - Can't add books
+2018-04-16 18:26:00 ERROR BookDAOImpl:170 - Incorrect author id
+2018-04-20 09:04:59 ERROR BookDAOImpl:151 - Incorrect Book arguments
+2018-04-20 09:04:59 ERROR BookDAOImpl:151 - Incorrect Book arguments
+2018-04-20 09:04:59 ERROR BookDAOImpl:151 - Incorrect Book arguments
+2018-04-20 09:11:22 ERROR BookDAOImpl:154 - Incorrect Book arguments
+2018-04-20 09:21:47 ERROR BookDAOImpl:156 - Incorrect Book arguments
+2018-04-20 09:23:54 ERROR BookDAOImpl:156 - Incorrect Book arguments

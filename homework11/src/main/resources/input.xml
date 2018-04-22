@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <id>5</id>
+        <name>Faculty of Fire 2</name>
+        <numberOfPages>300</numberOfPages>
+        <authorId>10</authorId>
+    </book>
+    <book>
+        <id>6</id>
+        <name>Game of masks 2</name>
+        <numberOfPages>400</numberOfPages>
+        <authorId>10</authorId>
+    </book>
+    <book>
+        <id>15</id>
+        <name>Bro code</name>
+        <numberOfPages>300</numberOfPages>
+        <authorId>20</authorId>
+    </book>
+    <book>
+        <id>16</id>
+        <name>H.P. special addition </name>
+        <numberOfPages>300</numberOfPages>
+        <authorId>22</authorId>
+    </book>
+    </books>
